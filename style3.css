@@ -1,0 +1,12 @@
+body{
+  text-align: center;
+  background-color: #f52e2e;
+  
+}
+  img{
+    height: 500px;
+    width:700px;''
+    object-fit: cover;
+    padding: 15px;
+  }
+  
